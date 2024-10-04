@@ -13,17 +13,6 @@ The other dataset that we are using is World GDP which measures variables of GDP
 
 3. What are the challenges you've resolved or expect to face in using them?
 
-One challenge we anticipate facing during our project is combining the two datasets that we 
-have chosen to analyze. We chose a dataset on agricultural CO2 emissions as well as a dataset on 
-GDP per capita. Each dataset contains data from the last few decades for different geographical 
-areas. We will join these datasets together by geographical area, however, the two datasets have 
-variation in naming for this variable. For example, the agrofood dataset contains data from both 
-“China” and “China, mainland” while the GDP dataset does not. The GDP dataset lists certain categories
-under geographical areas that are not in the agrofood dataset, such as “Fragile and conflict affected 
-situations” or “Least developed countries: UN classification.” Additionally, the agrofood dataset 
-contains data from 1990-2020 while the GDP dataset begins in 1960. These variations will require more 
-effort during the data cleaning process when combining the datasets, and we will likely have to leave 
-out certain geographical areas from the GDP dataset. Although the GDP dataset contains more geographical 
-areas, it also contains a large amount of missing data. Because of this, we may not be able to find 
-significant relationships between certain variables or make accurate predictions for geographical 
-areas/years with too much missing data. 
+One challenge we faced was combining the two datasets that we have chosen to analyze. Each dataset contains data (on GDP or agrofood emissions) from the last few decades for different geographical areas. We joined these datasets together by geographical area, 
+however, the two datasets have variation in naming for this variable. For example, the agrofood dataset contains data from both 
+“China” and “China, mainland” while the GDP dataset does not. The GDP dataset lists certain categoriesunder geographical areas that are not in the agrofood dataset, such as “Fragile and conflict affected situations” or “Least developed countries: UN classification.” Additionally, the agrofood dataset contains data from 1990-2020 while the GDP dataset begins in 1960. These variations required more effort in the data cleaning process when combining the datasets, and we will likely have to leave out certain geographical areas from the GDP dataset. Although the GDP dataset contains more geographical areas, it also contains a large amount of missing data. Because of this, we may not be able to find significant relationships between certain variables or make accurate predictions for geographical areas/years with too much missing data. 
