@@ -1,5 +1,7 @@
 Dataset Source:
+
 https://www.kaggle.com/datasets/alessandrolobello/agri-food-co2-emission-dataset-forecasting-ml
+
 https://www.kaggle.com/datasets/zgrcemta/world-gdpgdp-gdp-per-capita-and-annual-growths
 
 Our project combines two datasets from kaggle. The first dataset 'Agri-food CO2 emission dataset- Forecasting ML' describes CO2 emissions coming from the agri-food industry in 236 distinct countries from 1990-2020. The variables measured over this time period include emissions from Savanna fires, forest fires, crop residues, rice cultivation, drained organic soils, pesticides manufacturing, food product transportation, net forest conversion, household food consumption, food retail, on-farm electricity, food packaging, agrifood systems waste disposal, food processing, manufactoring fertilizers, Industrial Processes and Product Use (IPPU), manure applied to soil, manure left on pastures, fires on organic soils, fires in humid tropical forests, and on-farm energy use. Other demographic variables in this dataset are rural, urban, and total (male/female) populations. Additionally, total emissions, land covered by forests, and average temperature is recorded for each country. All of the data was taken from the Food and Agriculture Organization of the United States and the Intergovernmental Panel on Climate Change.
