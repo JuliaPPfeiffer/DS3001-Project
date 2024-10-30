@@ -2,7 +2,7 @@ Research Question: Which countries have highest emissions currently based on the
 
 1. What is an observation in your study?
 
-2. Are you doing supervised or unsupervised learning? Classification or regression?
+2. Are you doing supervised or unsupervised learning? Classification or regression? - Natalie
 
 3. How will you prepare the data specifically for your analysis? What models or algorithms do you plan to use in your analysis? How? - Eva
 
