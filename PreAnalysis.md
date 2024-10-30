@@ -10,4 +10,5 @@ Research Question: Which countries have highest emissions currently based on the
 
 5. What are weaknesses that you anticipate being an issue? How will you deal with them if they come up? If your approach fails, what might you learn from this unfortunate outcome?
 
+6. How will you communicate or present your results?
 
