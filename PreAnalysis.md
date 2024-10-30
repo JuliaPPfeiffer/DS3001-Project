@@ -4,7 +4,7 @@ Research Question: Which countries have highest emissions currently based on the
 
 2. Are you doing supervised or unsupervised learning? Classification or regression?
 
-3. How will you prepare the data specifically for your analysis? What models or algorithms do you plan to use in your analysis? How?
+3. How will you prepare the data specifically for your analysis? What models or algorithms do you plan to use in your analysis? How? - Eva
 
 4. How will you know if your approach "works"? What does success mean? - Larissa
 
