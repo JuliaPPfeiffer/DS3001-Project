@@ -1,4 +1,4 @@
-Research Question:
+Research Question: Which countries have highest emissions currently based on the data? 
 
 1. What is an observation in your study?
 2. Are you doing supervised or unsupervised learning? Classification or regression?
