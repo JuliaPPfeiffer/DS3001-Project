@@ -6,7 +6,7 @@ Research Question: Which countries have highest emissions currently based on the
 
 3. How will you prepare the data specifically for your analysis? What models or algorithms do you plan to use in your analysis? How?
 
-4. How will you know if your approach "works"? What does success mean?
+4. How will you know if your approach "works"? What does success mean? - Larissa
 
 5. What are weaknesses that you anticipate being an issue? How will you deal with them if they come up? If your approach fails, what might you learn from this unfortunate outcome?
 
