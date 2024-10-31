@@ -3,6 +3,7 @@ Research Question: What are the emission levels over time per country? What mode
 1. What is an observation in your study? *Julia
 
 2. Are you doing supervised or unsupervised learning? Classification or regression?
+
 Since our goal is to predict emissions levels over time per country, we will be conducting a regression by comparing the performance of various linear regression models (supervised learning). After producing our models, we will be able to compare the predictions of emission levels per country to the true values from the original dataset. 
 
 3. How will you prepare the data specifically for your analysis? What models or algorithms do you plan to use in your analysis? How? - Eva
