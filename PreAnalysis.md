@@ -1,6 +1,8 @@
 Research Question: What are the emission levels over time per country? What model provides the most accurate predictions of emission levels? 
 
-1. What is an observation in your study? *Julia
+1. What is an observation in your study?
+
+Observations in our study are a country's data on multiple environmental measures for one specific year (ranging from 1990 to 2020). 
 
 2. Are you doing supervised or unsupervised learning? Classification or regression?
 
