@@ -8,11 +8,11 @@ Observations in our study are a country's data on multiple environmental measure
 
 Since our goal is to predict emissions levels over time per country, we will be conducting a regression by comparing the performance of various linear regression models (supervised learning). After producing our models, we will be able to compare the predictions of emission levels per country to the true values from the original dataset. 
 
-3. How will you prepare the data specifically for your analysis? What models or algorithms do you plan to use in your analysis? How? - Eva
+3. How will you prepare the data specifically for your analysis? What models or algorithms do you plan to use in your analysis? How?
 
 For our analysis, we will construct a pipeline to ensure consistent data manipulation throughout the process. This pipeline will also enable us to perform feature engineering and decide on any additional variables we might want to include. We’ll address missing values here as well, determining the best approach to fill them in, as there are quite a few. We plan to try several models but will focus primarily on linear regression, as it aligns with what we learned in class. We'll begin by testing simple linear regression models to examine how individual features correlate with emissions. From there, we’ll move to multiple linear regression and focus on tuning hyperparameters. We’ll then explore polynomial regression, which can detect non-linear relationships in the data. If these approaches don’t yield good results, we may consider models not covered in class or reassess the quality and suitability of the data.
 
-4. How will you know if your approach "works"? What does success mean? - Larissa
+4. How will you know if your approach "works"? What does success mean?
 
 We will evaluate our model using regression metrics such as RMSE to measure the error of our predictions on the test data. Success will mean that we have low error and the model is able to accurately predict the total emissions of a country based on data such as the GDP, total population, year, etc.
 
