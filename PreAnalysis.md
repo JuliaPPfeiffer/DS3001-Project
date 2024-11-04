@@ -12,6 +12,8 @@ Since our goal is to predict emissions levels over time per country, we will be 
 
 4. How will you know if your approach "works"? What does success mean? - Larissa
 
+We will evaluate our model using regression metrics such as RMSE to measure the error of our predictions on the test data. Success will mean that we have low error and the model is able to accurately predict the total emissions of a country based on data such as the GDP, total population, year, etc.
+
 5. What are weaknesses that you anticipate being an issue? How will you deal with them if they come up? If your approach fails, what might you learn from this unfortunate outcome?
 
 6. How will you communicate or present your results?
